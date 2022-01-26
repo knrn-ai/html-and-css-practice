@@ -7,3 +7,5 @@
 - Семантическая вёрстка
 - Flexbox
 - Позиционирование
+
+Посмотреть задеплоенную страничку: https://konerini.github.io/html-and-css-practice/
